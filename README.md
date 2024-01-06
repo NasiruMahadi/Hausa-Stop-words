@@ -1,2 +1,2 @@
 # Hausa-Stop-words
-This repo contains Hausa language stop words
+This repo contains list of Hausa language stop words.
